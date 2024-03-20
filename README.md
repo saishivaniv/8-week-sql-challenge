@@ -4,11 +4,13 @@ This repository contains the solutions for the case studies in [8weeksqlchalleng
 
 Each case-study folder contains the following files
 
-A readme file explaining the problem statement and datasets used
-SQL file to create the schema, tables and loading data
-MD files which contains SQL queries answering the respective challenge questions
-Note:
+* A readme file explaining the problem statement and datasets used
+* SQL file to create the schema, tables and loading data
+* MD files which contains SQL queries answering the respective challenge questions
+  
+# Note:
 
-Solutions are coded in MySQL
-Challenge case studies
-🍜Case Study #1 - Danny's Diner
+* Solutions are coded in MySQL
+  
+# Challenge case studies
+* [🍜Case Study #1 - Danny's Diner]
