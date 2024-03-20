@@ -13,4 +13,4 @@ Each case-study folder contains the following files
 * Solutions are coded in MySQL
   
 # Challenge case studies
-* [🍜Case Study #1 - Danny's Diner]
+* [🍜Case Study #1 - Danny's Diner](https://8weeksqlchallenge.com/case-study-1/)
