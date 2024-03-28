@@ -1,5 +1,5 @@
 
-                                                    **Case Study #1 - Danny's Diner**
+                                                    ** Case Study #1 - Danny's Diner **
                                                     
 ![image](https://github.com/saishivaniv/8-week-sql-challenge/assets/84676922/e83048ea-93d1-4b1b-853b-bc359581c3b8)
 
