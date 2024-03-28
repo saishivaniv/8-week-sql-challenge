@@ -23,7 +23,7 @@ Three key datasets for this case study
 
 # Entity Relationship Diagram
 
-!(ERD)(https://github.com/saishivaniv/8-week-sql-challenge/blob/main/Case%20Study%20%23%201%20-%20Danny's%20Diner/ERD.png)
+![ERD] (https://github.com/saishivaniv/8-week-sql-challenge/blob/main/Case%20Study%20%23%201%20-%20Danny's%20Diner/ERD.png)
 
 
 
