@@ -16,12 +16,13 @@ Danny wants to use the data to answer a few simple questions about his customers
 # Datasets used
 Three key datasets for this case study
 
-**sales**: The sales table captures all customer_id level purchases with an corresponding order_date and product_id information for when and what menu items were ordered.
-**menu**: The menu table maps the product_id to the actual product_name and price of each menu item.
-**members**: The members table captures the join_date when a customer_id joined the beta version of the Danny’s Diner loyalty program.
+* sales: The sales table captures all customer_id level purchases with an corresponding order_date and product_id information for when and what menu items were ordered.
+* menu: The menu table maps the product_id to the actual product_name and price of each menu item.
+* members: The members table captures the join_date when a customer_id joined the beta version of the Danny’s Diner loyalty program.
 
 # Entity Relationship Diagram
-![image](https://github.com/saishivaniv/8-week-sql-challenge/assets/84676922/45faf245-2cff-47ed-a01d-ad7c639da3e0)
+![image](https://github.com/saishivaniv/8-week-sql-challenge/assets/84676922/36c23822-ac96-4dc6-8409-9fca4716c9b8)
+
 
 
 # Case Study Questions
