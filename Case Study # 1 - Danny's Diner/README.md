@@ -24,6 +24,7 @@ Three key datasets for this case study
 # Entity Relationship Diagram
 ![image](https://dbdiagram.io/d/Dannys-Diner-608d07e4b29a09603d12edbd?utm_source=dbdiagram_embed&utm_medium=bottom_open)
 
+![image](https://github.com/saishivaniv/8-week-sql-challenge/assets/84676922/82750395-1ec7-4fc2-a191-9fe5a2316ce5)
 
 
 
