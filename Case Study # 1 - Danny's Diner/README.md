@@ -1,7 +1,8 @@
 
-                                                    Case Study #1 - Danny's Diner
+                                                 # Case Study #1 - Danny's Diner
                                                     
-![image](https://github.com/saishivaniv/8-week-sql-challenge/assets/84676922/e83048ea-93d1-4b1b-853b-bc359581c3b8)
+![image](https://github.com/saishivaniv/8-week-sql-challenge/assets/84676922/05375b62-a546-4866-8ff8-e77d403c2949)
+
 
 
 
@@ -21,7 +22,8 @@ Three key datasets for this case study
 * members: The members table captures the join_date when a customer_id joined the beta version of the Danny’s Diner loyalty program.
 
 # Entity Relationship Diagram
-![image](https://github.com/saishivaniv/8-week-sql-challenge/assets/84676922/36c23822-ac96-4dc6-8409-9fca4716c9b8)
+![image](https://github.com/saishivaniv/8-week-sql-challenge/assets/84676922/252f1c01-4746-4419-9f15-de62c5320709)
+
 
 
 
